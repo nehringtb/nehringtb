@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Thomas Nehring.
 - 👀 I’m interested in all things software.
 - 🌱 I’m currently learning .net core and Angular.
-- 💞️ I’m looking to collaborate on any project that will take me.
 - 📫 How to reach me: thomasnehring@outlook.com
 
 <!---
